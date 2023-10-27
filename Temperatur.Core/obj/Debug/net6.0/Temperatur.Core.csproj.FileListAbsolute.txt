@@ -1,0 +1,12 @@
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\bin\Debug\net6.0\Temperatur.Core.deps.json
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\bin\Debug\net6.0\Temperatur.Core.dll
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\bin\Debug\net6.0\Temperatur.Core.pdb
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\Temperatur.Core.csproj.AssemblyReference.cache
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\Temperatur.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\Temperatur.Core.AssemblyInfoInputs.cache
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\Temperatur.Core.AssemblyInfo.cs
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\Temperatur.Core.csproj.CoreCompileInputs.cache
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\Temperatur.Core.dll
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\refint\Temperatur.Core.dll
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\Temperatur.Core.pdb
+C:\Users\burhanaddinzm\source\repos\Temperatur.App\Temperatur.Core\obj\Debug\net6.0\ref\Temperatur.Core.dll
